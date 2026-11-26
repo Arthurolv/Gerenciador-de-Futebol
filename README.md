@@ -1,5 +1,7 @@
 # Aurora FC Manager
 
+![Estádio iluminado à noite para o Aurora FC Manager](public/images/stadium-hero.png)
+
 Simulador de gerenciamento de futebol em português, feito para navegador. O projeto inclui cadastro e login, um clube persistido em SQLite para cada conta, gerenciamento do elenco, formação e estilo tático, treino, jogos simulados, calendário, classificação, mercado e estatísticas.
 
 ## Executar localmente
